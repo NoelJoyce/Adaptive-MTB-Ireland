@@ -1,0 +1,36 @@
+{
+    "Description" : "List of Adaptive Usable Trails in Ireland",
+    "Trails" : [
+        {
+            "Location": "Location : Kinnitty",
+            "Name" : "Blue Trail : Cool Runnings",
+            "Difficulty" : "Difficulty : Easy to Moderate"
+        },
+        {
+            "Location": "Location : Kinnitty",
+            "Name" : "Blue Trail : Rock & Roll",
+            "Difficulty" : "Difficulty : Easy to Moderate"
+        },
+        {
+            "Location": "Location : Kinnitty",
+            "Name" : "Blue Trail : The Full Hog",
+            "Difficulty" : "Difficulty : Easy to Moderate"
+        },
+        {
+            "Location": "Location : Kinnitty",
+            "Name" : "Red Trail : ASAP",
+            "Difficulty" : "Difficulty : Moderate to Difficult"
+        },
+        {
+            "Location": "Location : Kinnitty",
+            "Name" : "Red Trail : Twist & Shout",
+            "Difficulty" : "Difficulty : Moderate to Difficult"
+        },
+        {
+            "Location": "Location : Kinnitty",
+            "Name" : "Red Trail : RoadRunner",
+            "Difficulty" : "Difficulty : Moderate to Difficult"
+        }
+        
+    ]
+}
